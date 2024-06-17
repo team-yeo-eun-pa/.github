@@ -11,7 +11,7 @@
 
 
 <div style="text-align: left;">
-    <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📁 repositories </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📁 repositories </h2> <br> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Client: https://github.com/team-yeo-eun-pa/greenFire-frontend </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Server: https://github.com/team-yeo-eun-pa/greenFire-backend </div> 
 </div>
