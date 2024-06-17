@@ -41,11 +41,7 @@
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgreenFire-backend%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div> <br>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=greenFire-backend&bg_color=180,002e7a,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenFire-backend&layout=compact&bg_color=180,002e7a,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
+
 
 
 ## Team
