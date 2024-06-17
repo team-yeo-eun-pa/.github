@@ -1,6 +1,3 @@
-## 초록불 🌱
-
-
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 GREEN FIRE </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 에코 이커머스 플랫폼 초록불입니다. </div> 
