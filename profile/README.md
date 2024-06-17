@@ -1,17 +1,7 @@
-    <div style="text-align: left;"> 
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 GREEN FIRE </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 에코 이커머스 플랫폼 초록불입니다. </div> 
     </div>
-
-
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌳 About </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 프로젝트 설명 </div> 
-    </div>
-
-
-
-    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white">
@@ -32,23 +22,19 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           </div>
     </div>
-
-    
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔗 Contact us </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🍀 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=https://www.notion.so/YEP-Yeo-Eun-pa-31ef27d24e71456abddaf0fca741e45d> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/YEP-Yeo-Eun-pa-31ef27d24e71456abddaf0fca741e45d"> </a>
           </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgreenFire-backend%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
-
-
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=greenFire-backend&bg_color=180,002e7a,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenFire-backend&layout=compact&bg_color=180,002e7a,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
-    
+
 
 ## Team
 |<img src="https://avatars.githubusercontent.com/u/116954896?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/163974510?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154950327?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/56541363?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/154950263?v=4" width="150" height="150"/>|
